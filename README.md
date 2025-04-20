@@ -13,6 +13,7 @@ The goal is to simulate a real studio Live Ops environment through:
 - `/notion-tracker/` – Visual calendar + issue tracker (linked or embedded)
 - `/scripts/` – Sample tools (e.g. changelog automation, version tracking)
 - `/changelogs/` – Markdown logs for dev update history
+- `/templates/` - Markdown files of templates frequently used
 - `GitHub Projects` – Simulated bug triage board (WIP)
 
 ## 🎯 Goals
